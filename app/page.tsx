@@ -126,7 +126,7 @@ export default function Home() {
 
           <div className="premium-badge">
             
-            ✦ MADE ESPECIALLY FOR MY DUGGU ✦
+             MADE FOR MY CUTE DUGGU 
                
           </div>
 
