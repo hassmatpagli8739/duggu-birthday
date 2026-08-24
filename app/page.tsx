@@ -125,8 +125,9 @@ export default function Home() {
           <div className="glow glow-two" />
 
           <div className="premium-badge">
-            ✦ MADE ESPECIALLY FOR MY
-                CUTE LITTLE DUGGU ✦
+            
+            ✦ MADE ESPECIALLY FOR MY DUGGU ✦
+               
           </div>
 
           <div
