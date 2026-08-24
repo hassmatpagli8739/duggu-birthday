@@ -8986,3 +8986,16 @@ video {
     transition: none !important;
   }
 }
+@media (max-width: 768px) {
+  .particles,
+  .glow,
+  .cake-glow,
+  .stars {
+    display: none !important;
+  }
+
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
