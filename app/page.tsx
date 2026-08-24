@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-const particles = Array.from({ length: 30 }, (_, index) => index);
+const particles = Array.from({ length: 12 }, (_, index) => index);
 
 export default function Home() {
   const [loading, setLoading] = useState(true);

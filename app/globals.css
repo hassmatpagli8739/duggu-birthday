@@ -8956,3 +8956,28 @@ video {
     padding: 10px 12px;
   }
 }
+/* Performance optimization */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (max-width: 768px) {
+  .particle,
+  .sparkle,
+  .floating-particle {
+    display: none !important;
+  }
+
+  * {
+    animation-duration: 0.8s !important;
+  }
+}
+@media (max-width: 768px) {
+  .particles {
+    display: none !important;
+  }
+
+  .particle {
+    display: none !important;
+  }
+}
