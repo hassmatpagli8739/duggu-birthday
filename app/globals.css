@@ -8980,9 +8980,4 @@ video {
   .particle {
     display: none !important;
   }
-}@media (max-width: 768px) {
-  .birthday-page * {
-    animation: none !important;
-    transition: none !important;
-  }
 }
